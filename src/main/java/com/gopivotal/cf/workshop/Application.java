@@ -12,7 +12,7 @@ public class Application {
         SpringApplication.run(Config.class, args);
         
     /*
-    Magic !!
+    My Magic !!
     */
     }
     
